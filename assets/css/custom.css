@@ -1,0 +1,19 @@
+ul.lista-campos {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ddd;
+    max-height: 420px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+ul.lista-campos li:hover {
+    background-color: #dddddd;
+    cursor: pointer;
+}
+
+ul.lista-campos li {
+    padding: 2px 4px;
+    border-bottom: 1px solid #eee;
+}
