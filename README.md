@@ -3,11 +3,11 @@
 - Ferramenta de Business Intelligence (BI), desenvolvido em PHP + Codeigniter.
 
 # Modules:
--KPI
--CHARTS
--DRILLDOWN
--ETL
--APPLICATION DATABASE: MYSQL
+- KPI
+- CHARTS
+- DRILLDOWN
+- ETL
+- APPLICATION DATABASE: MYSQL
 
 #TAGS:
 BI + PHP
