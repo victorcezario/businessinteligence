@@ -1,13 +1,15 @@
 # BusinessInteligence
 
-- Ferramenta de Business Intelligence, desenvolvido em PHP + Codeigniter.
-- Modules:
-*KPI
+- Ferramenta de Business Intelligence (BI), desenvolvido em PHP + Codeigniter.
 
-*CHARTS
+# Modules:
+-KPI
+-CHARTS
+-DRILLDOWN
+-ETL
+-APPLICATION DATABASE: MYSQL
 
-*DRILLDOWN
-
-*ETL
-
-*APPLICATION DATABASE: MYSQL
+#TAGS:
+BI + PHP
+BI + Codeigniter
+ETL
