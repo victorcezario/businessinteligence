@@ -1,6 +1,6 @@
 # Business Inteligence Tool PHP
 
-- Ferramenta de Business Intelligence (BI), desenvolvido em PHP + Codeigniter.
+- Business Intelligence (BI) tool, developed in PHP + Codeigniter.
 
 # Modules:
 - KPI
