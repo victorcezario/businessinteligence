@@ -1,4 +1,4 @@
-# BusinessInteligence
+# Business Inteligence Tool PHP
 
 - Ferramenta de Business Intelligence (BI), desenvolvido em PHP + Codeigniter.
 
@@ -9,7 +9,7 @@
 - ETL
 - APPLICATION DATABASE: MYSQL
 
-#TAGS:
+# TAGS:
 BI + PHP
 BI + Codeigniter
 ETL
